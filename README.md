@@ -1,0 +1,28 @@
+
+<!-- README.md is generated from README.Rmd. Please edit that file -->
+
+# modr
+
+<!-- badges: start -->
+<!-- badges: end -->
+
+`modr` contains functions to read [MODFLOW
+6](https://www.usgs.gov/software/modflow-6-usgs-modular-hydrologic-model)
+output into R and to create different objects from that output, such as
+[tibbles](https://tibble.tidyverse.org/) which can be used for plotting
+or spatial objects using the [sf](https://r-spatial.github.io/sf/)
+package which can be exported.
+
+## Installation
+
+You can install the development version of `modr` from
+[GitHub](https://github.com/) with:
+
+``` r
+# install.packages("devtools")
+devtools::install_github("cneyens/modr")
+```
+
+## Example
+
+Coming soon.

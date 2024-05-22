@@ -1,0 +1,13 @@
+Package: modr
+Title: Postprocessing of MODFLOW 6 Output in R
+Version: 0.0.0.9000
+Authors@R: 
+    person("Cas", "Neyens", , "cas.neyens@gmail.com", role = c("aut", "cre"))
+Description: Reading MODFLOW 6 output into R and creating tibbles and
+    spatial objects.
+License: MIT + file LICENSE
+URL: https://github.com/cneyens/modr
+BugReports: https://github.com/cneyens/modr/issues
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.1
